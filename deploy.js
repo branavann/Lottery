@@ -3,7 +3,7 @@ const Web3 = require('web3');
 const {interface,bytecode} = require('./compile');
 
 const provider = new HDWalletProvider(
-    'orient frozen define shock mouse talent adapt scorpion brush rib aisle token',
+    'private key goes here',
     'https://rinkeby.infura.io/v3/16a624b7c1124b048ab4429260e8e423'
 );
 
